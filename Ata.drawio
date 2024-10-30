@@ -35,7 +35,7 @@
             <mxPoint x="970.4264068711893" y="379.2842712474595" as="sourcePoint" />
             <mxPoint x="1140" y="500" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="740" y="960" />
+              <mxPoint x="740" y="1090" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -46,7 +46,7 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="575" y="754" />
-              <mxPoint x="575" y="1651" />
+              <mxPoint x="575" y="1721" />
             </Array>
             <mxPoint x="485" y="1034" as="sourcePoint" />
           </mxGeometry>
@@ -56,7 +56,7 @@
             <Array as="points">
               <mxPoint x="470" y="756" />
               <mxPoint x="575" y="756" />
-              <mxPoint x="575" y="1747" />
+              <mxPoint x="575" y="1817" />
             </Array>
             <mxPoint x="470" y="1030" as="sourcePoint" />
             <mxPoint x="630" y="1271" as="targetPoint" />
@@ -66,7 +66,7 @@
           <mxGeometry x="455" y="724" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="l7rkvU7OESbNSWIjhwmB-11" value="Usuario Externo&lt;div&gt;(CT,PC,PM,DP,MP,Poder Judiciario...)&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
-          <mxGeometry x="1099" y="930" width="30" height="60" as="geometry" />
+          <mxGeometry x="1099" y="1060" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="l7rkvU7OESbNSWIjhwmB-14" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;Consultar Ata&lt;div&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#0F8B8D;align=center;verticalAlign=top;fontFamily=Helvetica;fontSize=12;fontColor=#143642;fillColor=#FAE5C7;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
           <mxGeometry x="680" y="500" width="120" height="80" as="geometry" />
@@ -81,7 +81,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="l7rkvU7OESbNSWIjhwmB-16" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Encaminhar Ata&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;/div&gt;&lt;div&gt;&lt;/div&gt;&lt;div&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#0F8B8D;align=center;verticalAlign=top;fontFamily=Helvetica;fontSize=12;fontColor=#143642;fillColor=#FAE5C7;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
-          <mxGeometry x="850" y="920" width="120" height="80" as="geometry" />
+          <mxGeometry x="850" y="1050" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="l7rkvU7OESbNSWIjhwmB-17" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Atualizar Envolvidos&lt;br&gt;&lt;/span&gt;Externos&lt;/div&gt;&lt;div&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#0F8B8D;align=center;verticalAlign=top;fontFamily=Helvetica;fontSize=12;fontColor=#143642;fillColor=#FAE5C7;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
           <mxGeometry x="270" y="960" width="120" height="80" as="geometry" />
@@ -116,11 +116,11 @@
         <mxCell id="l7rkvU7OESbNSWIjhwmB-39" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Perguntas:&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Todas as Unidades escolares poderão ver as atas umas das outras?&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Quando for segredo de justiça, quem poderá ter acesso?&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;Havera um cadastro de livros atas?&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;Havera um cadastro de Tipo de Ata,&amp;nbsp; fatos/artigos?(enviarão os tipos ou sera um cadastro feito pelo usuario)&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;Integração com o sistema&amp;nbsp;&lt;span style=&quot;text-wrap: nowrap; background-color: initial; text-align: center;&quot;&gt;SIGO não haverá?&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Para o encaminhamento da ata a unidade escolar escolhe onde quer encaminhar&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;Painel que permite uma visão estratégia, quantidades de atas por status, por&lt;br&gt;tipo, por turma, por estudante, etc.(Grafico)&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;Qual sera o modelo da Ata?&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;Cadastro de fatos, e uma lista prontoa, abre uma tela de cadastro de fatos, cada unidade tera o seu ou é geral para todos?&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=#143642;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
           <mxGeometry x="-10" y="2180" width="790" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="l7rkvU7OESbNSWIjhwmB-40" value="&lt;div&gt;Repartições SED&lt;br&gt;&lt;div&gt;(Administrativas, Pedagógica, Correcionais e Jurídica.&lt;br&gt;: CRE, COGES – SUGED, USCI – Gabinete e Gabinete)&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;SNOE (Sistema de Notificação de Ocorrências Escolares)&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
-          <mxGeometry x="895" y="1070" width="30" height="60" as="geometry" />
+        <mxCell id="l7rkvU7OESbNSWIjhwmB-40" value="&lt;div&gt;Repartições SED&lt;br&gt;&lt;div&gt;(Administrativas, Pedagógica, Correcionais e Jurídica.&lt;br&gt;: CRE, COGES – SUGED, USCI – Gabinete e Gabinete)&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#ff3333&quot;&gt;SNOE (Sistema de Notificação de Ocorrências Escolares)&lt;/font&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
+          <mxGeometry x="895" y="1200" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="l7rkvU7OESbNSWIjhwmB-44" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Gerar insights&lt;/span&gt;&lt;br&gt;&lt;/div&gt;Gráficos&lt;div&gt;&lt;/div&gt;&lt;div&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#0F8B8D;align=center;verticalAlign=top;fontFamily=Helvetica;fontSize=12;fontColor=#143642;fillColor=#FAE5C7;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
-          <mxGeometry x="720" y="1611" width="120" height="80" as="geometry" />
+          <mxGeometry x="740" y="1681" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="yB7Arz60y3AJPYyza0kr-3" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;Incluir Anexo&lt;div&gt;&lt;/div&gt;&lt;div&gt;&lt;/div&gt;&lt;div&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#0F8B8D;align=center;verticalAlign=top;fontFamily=Helvetica;fontSize=12;fontColor=#143642;fillColor=#FAE5C7;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
           <mxGeometry x="840" y="590" width="120" height="80" as="geometry" />
@@ -135,7 +135,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ri8nx6nq4kUOFyCuY-BJ-1" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Cadastrar Fatos/Artigos&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#0F8B8D;align=center;verticalAlign=top;fontFamily=Helvetica;fontSize=12;fontColor=#143642;fillColor=#FAE5C7;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
-          <mxGeometry x="720" y="1707" width="120" height="80" as="geometry" />
+          <mxGeometry x="740" y="1777" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="HbcO3xmTwMIQvJEW_oPC-5" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;Excluir Ata" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#0F8B8D;align=center;verticalAlign=top;fontFamily=Helvetica;fontSize=12;fontColor=#143642;fillColor=#FAE5C7;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
           <mxGeometry x="840" y="500" width="120" height="80" as="geometry" />
@@ -144,13 +144,13 @@
           <mxGeometry x="840" y="300" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="HbcO3xmTwMIQvJEW_oPC-11" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Cadastrar Setores SED&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#0F8B8D;align=center;verticalAlign=top;fontFamily=Helvetica;fontSize=12;fontColor=#143642;fillColor=#FAE5C7;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
-          <mxGeometry x="720" y="1810" width="120" height="80" as="geometry" />
+          <mxGeometry x="740" y="1880" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="HbcO3xmTwMIQvJEW_oPC-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;labelBackgroundColor=none;strokeColor=#A8201A;fontColor=default;sketch=1;curveFitting=1;jiggle=2;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="My-0tOdEVOYRBpj_1P8_-1" target="HbcO3xmTwMIQvJEW_oPC-11">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="574" y="754" />
-              <mxPoint x="574" y="1850" />
+              <mxPoint x="574" y="1920" />
             </Array>
             <mxPoint x="470" y="1034" as="sourcePoint" />
             <mxPoint x="690" y="1396" as="targetPoint" />
@@ -177,16 +177,41 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="HbcO3xmTwMIQvJEW_oPC-15" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Cadastrar&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Objetos&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;/div&gt;&lt;div&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#0F8B8D;align=center;verticalAlign=top;fontFamily=Helvetica;fontSize=12;fontColor=#143642;fillColor=#FAE5C7;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
-          <mxGeometry x="730" y="1490" width="120" height="80" as="geometry" />
+          <mxGeometry x="750" y="1560" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="HbcO3xmTwMIQvJEW_oPC-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=none;strokeColor=#A8201A;sketch=1;curveFitting=1;jiggle=2;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="My-0tOdEVOYRBpj_1P8_-1" target="HbcO3xmTwMIQvJEW_oPC-15">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="580" y="754" />
-              <mxPoint x="580" y="1530" />
+              <mxPoint x="580" y="1600" />
             </Array>
             <mxPoint x="480" y="640" as="sourcePoint" />
             <mxPoint x="730" y="1537" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HbcO3xmTwMIQvJEW_oPC-17" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Cadastrar&lt;/div&gt;&lt;div&gt;Tipo de Ata&lt;/div&gt;&lt;div&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#0F8B8D;align=center;verticalAlign=top;fontFamily=Helvetica;fontSize=12;fontColor=#143642;fillColor=#FAE5C7;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="740" y="1994" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="HbcO3xmTwMIQvJEW_oPC-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;labelBackgroundColor=none;strokeColor=#A8201A;fontColor=default;sketch=1;curveFitting=1;jiggle=2;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="My-0tOdEVOYRBpj_1P8_-1" target="HbcO3xmTwMIQvJEW_oPC-17">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="573" y="754" />
+              <mxPoint x="573" y="2034" />
+            </Array>
+            <mxPoint x="455" y="868" as="sourcePoint" />
+            <mxPoint x="715" y="1754" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HbcO3xmTwMIQvJEW_oPC-19" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;Imprimir Atas&lt;div&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#0F8B8D;align=center;verticalAlign=top;fontFamily=Helvetica;fontSize=12;fontColor=#143642;fillColor=#FAE5C7;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="841" y="930" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="HbcO3xmTwMIQvJEW_oPC-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=none;strokeColor=#A8201A;sketch=1;curveFitting=1;jiggle=2;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="741" y="710" as="sourcePoint" />
+            <mxPoint x="841" y="970" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="741" y="970" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>
