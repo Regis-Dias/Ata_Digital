@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.8.1">
   <diagram name="Página-1" id="uF1H1OIzqP1bftv8VLXI">
-    <mxGraphModel dx="2868" dy="1534" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="1">
+    <mxGraphModel dx="2336" dy="807" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="1">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -30,42 +30,43 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="l7rkvU7OESbNSWIjhwmB-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=none;strokeColor=#A8201A;sketch=1;curveFitting=1;jiggle=2;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="HbcO3xmTwMIQvJEW_oPC-8" target="l7rkvU7OESbNSWIjhwmB-16" edge="1">
+        <mxCell id="l7rkvU7OESbNSWIjhwmB-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=none;strokeColor=#A8201A;sketch=1;curveFitting=1;jiggle=2;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="l7rkvU7OESbNSWIjhwmB-14" target="l7rkvU7OESbNSWIjhwmB-16" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="970.4264068711893" y="379.2842712474595" as="sourcePoint" />
             <mxPoint x="1140" y="500" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1160" y="340" />
+              <mxPoint x="740" y="960" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="l7rkvU7OESbNSWIjhwmB-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=none;strokeColor=#A8201A;sketch=1;curveFitting=1;jiggle=2;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="l7rkvU7OESbNSWIjhwmB-14" target="l7rkvU7OESbNSWIjhwmB-18" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="l7rkvU7OESbNSWIjhwmB-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=none;strokeColor=#A8201A;sketch=1;curveFitting=1;jiggle=2;" parent="1" source="My-0tOdEVOYRBpj_1P8_-1" target="l7rkvU7OESbNSWIjhwmB-44" edge="1">
+        <mxCell id="l7rkvU7OESbNSWIjhwmB-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=none;strokeColor=#A8201A;sketch=1;curveFitting=1;jiggle=2;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="My-0tOdEVOYRBpj_1P8_-1" target="l7rkvU7OESbNSWIjhwmB-44" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="575" y="754" />
-              <mxPoint x="575" y="1010" />
+              <mxPoint x="575" y="1651" />
             </Array>
+            <mxPoint x="485" y="1034" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ri8nx6nq4kUOFyCuY-BJ-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;labelBackgroundColor=none;strokeColor=#A8201A;fontColor=default;sketch=1;curveFitting=1;jiggle=2;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" target="ri8nx6nq4kUOFyCuY-BJ-1" edge="1">
+        <mxCell id="ri8nx6nq4kUOFyCuY-BJ-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;labelBackgroundColor=none;strokeColor=#A8201A;fontColor=default;sketch=1;curveFitting=1;jiggle=2;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="My-0tOdEVOYRBpj_1P8_-1" target="ri8nx6nq4kUOFyCuY-BJ-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="470" y="755" />
-              <mxPoint x="575" y="755" />
-              <mxPoint x="575" y="1106" />
+              <mxPoint x="470" y="756" />
+              <mxPoint x="575" y="756" />
+              <mxPoint x="575" y="1747" />
             </Array>
-            <mxPoint x="470" y="750" as="sourcePoint" />
-            <mxPoint x="630" y="991" as="targetPoint" />
+            <mxPoint x="470" y="1030" as="sourcePoint" />
+            <mxPoint x="630" y="1271" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="My-0tOdEVOYRBpj_1P8_-1" value="Usuario Interno&lt;br&gt;(Diretor, Coordenador, Secretario,&amp;nbsp;&lt;div&gt;Professor, Servidor Administrativo)&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
           <mxGeometry x="455" y="724" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="l7rkvU7OESbNSWIjhwmB-11" value="Usuario Externo&lt;div&gt;(CT,PC,PM,DP,MP,Poder Judiciario...)&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
-          <mxGeometry x="1409" y="310" width="30" height="60" as="geometry" />
+          <mxGeometry x="1099" y="930" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="l7rkvU7OESbNSWIjhwmB-14" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;Consultar Ata&lt;div&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#0F8B8D;align=center;verticalAlign=top;fontFamily=Helvetica;fontSize=12;fontColor=#143642;fillColor=#FAE5C7;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
           <mxGeometry x="680" y="500" width="120" height="80" as="geometry" />
@@ -80,7 +81,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="l7rkvU7OESbNSWIjhwmB-16" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Encaminhar Ata&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;/div&gt;&lt;div&gt;&lt;/div&gt;&lt;div&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#0F8B8D;align=center;verticalAlign=top;fontFamily=Helvetica;fontSize=12;fontColor=#143642;fillColor=#FAE5C7;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
-          <mxGeometry x="1160" y="300" width="120" height="80" as="geometry" />
+          <mxGeometry x="850" y="920" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="l7rkvU7OESbNSWIjhwmB-17" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Atualizar Envolvidos&lt;br&gt;&lt;/span&gt;Externos&lt;/div&gt;&lt;div&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#0F8B8D;align=center;verticalAlign=top;fontFamily=Helvetica;fontSize=12;fontColor=#143642;fillColor=#FAE5C7;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
           <mxGeometry x="270" y="960" width="120" height="80" as="geometry" />
@@ -109,17 +110,17 @@
         <mxCell id="l7rkvU7OESbNSWIjhwmB-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=none;strokeColor=#A8201A;sketch=1;curveFitting=1;jiggle=2;" parent="1" source="l7rkvU7OESbNSWIjhwmB-37" target="l7rkvU7OESbNSWIjhwmB-19" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="l7rkvU7OESbNSWIjhwmB-37" value="Usuario Externo&lt;div&gt;(Gov.br, Testemunhas)&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
+        <mxCell id="l7rkvU7OESbNSWIjhwmB-37" value="Usuario Externo e Interno&lt;div&gt;(Gov.br, Testemunhas, Comunicante, Presentes)&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
           <mxGeometry x="1090" y="810" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="l7rkvU7OESbNSWIjhwmB-39" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Perguntas:&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Todas as Unidades escolares poderão ver as atas umas das outras?&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Quando for segredo de justiça, quem poderá ter acesso?&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;Havera um cadastro de livros atas?&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;Havera um cadastro de Tipo de Ata,&amp;nbsp; fatos/artigos?(enviarão os tipos ou sera um cadastro feito pelo usuario)&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;Integração com o sistema&amp;nbsp;&lt;span style=&quot;text-wrap: nowrap; background-color: initial; text-align: center;&quot;&gt;SIGO não haverá?&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Para o encaminhamento da ata a unidade escolar escolhe onde quer encaminhar&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;Painel que permite uma visão estratégia, quantidades de atas por status, por&lt;br&gt;tipo, por turma, por estudante, etc.(Grafico)&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;Qual sera o modelo da Ata?&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;Cadastro de fatos, e uma lista prontoa, abre uma tela de cadastro de fatos, cada unidade tera o seu ou é geral para todos?&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=#143642;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
-          <mxGeometry y="1770" width="790" height="120" as="geometry" />
+          <mxGeometry x="-10" y="2180" width="790" height="120" as="geometry" />
         </mxCell>
         <mxCell id="l7rkvU7OESbNSWIjhwmB-40" value="&lt;div&gt;Repartições SED&lt;br&gt;&lt;div&gt;(Administrativas, Pedagógica, Correcionais e Jurídica.&lt;br&gt;: CRE, COGES – SUGED, USCI – Gabinete e Gabinete)&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;SNOE (Sistema de Notificação de Ocorrências Escolares)&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
-          <mxGeometry x="1205" y="450" width="30" height="60" as="geometry" />
+          <mxGeometry x="895" y="1070" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="l7rkvU7OESbNSWIjhwmB-44" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Gerar insights&lt;/span&gt;&lt;br&gt;&lt;/div&gt;Gráficos&lt;div&gt;&lt;/div&gt;&lt;div&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#0F8B8D;align=center;verticalAlign=top;fontFamily=Helvetica;fontSize=12;fontColor=#143642;fillColor=#FAE5C7;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
-          <mxGeometry x="680" y="970" width="120" height="80" as="geometry" />
+          <mxGeometry x="720" y="1611" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="yB7Arz60y3AJPYyza0kr-3" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;Incluir Anexo&lt;div&gt;&lt;/div&gt;&lt;div&gt;&lt;/div&gt;&lt;div&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#0F8B8D;align=center;verticalAlign=top;fontFamily=Helvetica;fontSize=12;fontColor=#143642;fillColor=#FAE5C7;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
           <mxGeometry x="840" y="590" width="120" height="80" as="geometry" />
@@ -133,8 +134,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ri8nx6nq4kUOFyCuY-BJ-1" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Cadastrar Fatos/Artiigos&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#0F8B8D;align=center;verticalAlign=top;fontFamily=Helvetica;fontSize=12;fontColor=#143642;fillColor=#FAE5C7;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
-          <mxGeometry x="680" y="1066" width="120" height="80" as="geometry" />
+        <mxCell id="ri8nx6nq4kUOFyCuY-BJ-1" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Cadastrar Fatos/Artigos&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#0F8B8D;align=center;verticalAlign=top;fontFamily=Helvetica;fontSize=12;fontColor=#143642;fillColor=#FAE5C7;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
+          <mxGeometry x="720" y="1707" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="HbcO3xmTwMIQvJEW_oPC-5" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;Excluir Ata" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#0F8B8D;align=center;verticalAlign=top;fontFamily=Helvetica;fontSize=12;fontColor=#143642;fillColor=#FAE5C7;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
           <mxGeometry x="840" y="500" width="120" height="80" as="geometry" />
@@ -143,17 +144,16 @@
           <mxGeometry x="840" y="300" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="HbcO3xmTwMIQvJEW_oPC-11" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Cadastrar Setores SED&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#0F8B8D;align=center;verticalAlign=top;fontFamily=Helvetica;fontSize=12;fontColor=#143642;fillColor=#FAE5C7;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
-          <mxGeometry x="680" y="1169" width="120" height="80" as="geometry" />
+          <mxGeometry x="720" y="1810" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="HbcO3xmTwMIQvJEW_oPC-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;labelBackgroundColor=none;strokeColor=#A8201A;fontColor=default;sketch=1;curveFitting=1;jiggle=2;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="My-0tOdEVOYRBpj_1P8_-1" target="HbcO3xmTwMIQvJEW_oPC-11">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="574" y="754" />
-              <mxPoint x="574" y="1210" />
-              <mxPoint x="680" y="1210" />
+              <mxPoint x="574" y="1850" />
             </Array>
-            <mxPoint x="480" y="750" as="sourcePoint" />
-            <mxPoint x="690" y="1116" as="targetPoint" />
+            <mxPoint x="470" y="1034" as="sourcePoint" />
+            <mxPoint x="690" y="1396" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="HbcO3xmTwMIQvJEW_oPC-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=none;strokeColor=#A8201A;sketch=1;curveFitting=1;jiggle=2;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0.006;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="l7rkvU7OESbNSWIjhwmB-14" target="HbcO3xmTwMIQvJEW_oPC-8">
@@ -165,6 +165,28 @@
               <mxPoint x="738" y="410" />
               <mxPoint x="738" y="340" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HbcO3xmTwMIQvJEW_oPC-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=none;strokeColor=#A8201A;sketch=1;curveFitting=1;jiggle=2;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="l7rkvU7OESbNSWIjhwmB-14" target="l7rkvU7OESbNSWIjhwmB-19">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="750" y="590" as="sourcePoint" />
+            <mxPoint x="860" y="970" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="740" y="840" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HbcO3xmTwMIQvJEW_oPC-15" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Cadastrar&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Objetos&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;/div&gt;&lt;div&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#0F8B8D;align=center;verticalAlign=top;fontFamily=Helvetica;fontSize=12;fontColor=#143642;fillColor=#FAE5C7;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="730" y="1490" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="HbcO3xmTwMIQvJEW_oPC-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=none;strokeColor=#A8201A;sketch=1;curveFitting=1;jiggle=2;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="My-0tOdEVOYRBpj_1P8_-1" target="HbcO3xmTwMIQvJEW_oPC-15">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="580" y="754" />
+              <mxPoint x="580" y="1530" />
+            </Array>
+            <mxPoint x="480" y="640" as="sourcePoint" />
+            <mxPoint x="730" y="1537" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
